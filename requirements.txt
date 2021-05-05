@@ -1,0 +1,6 @@
+time
+requests
+secrets
+user_agent
+python-telegram-bot
+random
